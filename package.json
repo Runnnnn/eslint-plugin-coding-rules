@@ -1,11 +1,8 @@
 {
   "name": "eslint-plugin-coding-rules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./lib/index.js",
-  "bin": {
-    "cr": "./index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
